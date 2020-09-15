@@ -305,6 +305,5 @@ def main():
         # write_text(f"{fps} fps", (50,20), white)
         pygame.display.flip()
 
-
 if __name__ == "__main__":
     main()
